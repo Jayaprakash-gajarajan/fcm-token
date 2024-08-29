@@ -1,0 +1,33 @@
+[debug] [2024-07-01T11:42:53.772Z] ----------------------------------------------------------------------
+[debug] [2024-07-01T11:42:53.775Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-01T11:42:53.776Z] CLI Version:   13.12.0
+[debug] [2024-07-01T11:42:53.776Z] Platform:      win32
+[debug] [2024-07-01T11:42:53.776Z] Node Version:  v18.0.0
+[debug] [2024-07-01T11:42:53.777Z] Time:          Mon Jul 01 2024 17:12:53 GMT+0530 (India Standard Time)
+[debug] [2024-07-01T11:42:53.778Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-01T11:42:53.787Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-01T11:42:53.787Z] > authorizing via signed-in user (jayaprakash58563@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\testing\fcm_test
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
